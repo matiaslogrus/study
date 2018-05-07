@@ -1,3 +1,4 @@
 branch
 ok, some text
 nice
+good
