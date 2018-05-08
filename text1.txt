@@ -2,6 +2,3 @@ branch
 ok, some text
 nice
 good
-last
-big bang
-little bum
