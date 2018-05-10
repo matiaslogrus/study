@@ -1,2 +1,1 @@
 branch
-ok, some text
